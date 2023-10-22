@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Iphone 14",
+    "precio": 1500,
+    "categoria": "celulares",
+    "imagen": "iphone14.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Iphone 13 PRO",
+    "precio": 1300,
+    "categoria": "celulares",
+    "imagen": "iphone13PRO.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Iphone 13",
+    "precio": 1100,
+    "categoria": "celulares",
+    "imagen": "iphone13.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Iphone 11 PRO",
+    "precio": 800,
+    "categoria": "celulares",
+    "imagen": "iphone11PRO.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Iphone 11",
+    "precio": 600,
+    "categoria": "celulares",
+    "imagen": "iphone11.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Iphone SE",
+    "precio": 600,
+    "categoria": "celulares",
+    "imagen": "iphoneSE.jpeg"
+  },
+  {
+    "id": 7,
+    "nombre": "Iphone X",
+    "precio": 450,
+    "categoria": "celulares",
+    "imagen": "iphoneX.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Iphone 8",
+    "precio": 380,
+    "categoria": "celulares",
+    "imagen": "iphone8.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Lenovo Laptop",
+    "precio": 2500,
+    "categoria": "computadoras",
+    "imagen": "lenovo.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Apple Macbook Air M2",
+    "precio": 3000,
+    "categoria": "computadoras",
+    "imagen": "mac.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "HP Laptop",
+    "precio": 2000,
+    "categoria": "computadoras",
+    "imagen": "hp.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Acer Laptop",
+    "precio": 1800,
+    "categoria": "computadoras",
+    "imagen": "acer.webp"
+  },
+  {
+    "id": 13,
+    "nombre": "Samsung Laptop",
+    "precio": 2700,
+    "categoria": "computadoras",
+    "imagen": "samsung.jpg"
+  }
+]
